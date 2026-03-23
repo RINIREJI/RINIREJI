@@ -14,7 +14,7 @@
 - Odoo Custom Module
 
 📫 Contact:
-- LinkedIn: (add your link)
+- LinkedIn: https://www.linkedin.com/in/rini-r-35a936208
 - Email: rininithin99@gmail.com## Hi there 👋
 
 <!--
